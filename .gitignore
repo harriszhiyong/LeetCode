@@ -11,3 +11,5 @@
 build_local.gradle
 buildSrc/build
 /LICENSE
+/out
+/lib
