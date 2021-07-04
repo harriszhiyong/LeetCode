@@ -1,4 +1,5 @@
 *.iml
+<<<<<<< HEAD
 /local.properties
 /.idea
 /.idea/navEditor.xml
@@ -13,3 +14,14 @@ buildSrc/build
 /LICENSE
 /out
 /lib
+=======
+.idea
+.DS_Store
+/C/.idea
+/C/cmake-build-debug
+/Cpp/.idea/cmake-build-debug
+/Java/lib
+/Java/out
+/Kotlin/lib
+/Kotlin/out
+>>>>>>> 7d4fb42c85011cbe905124daed17a21199b6df02
