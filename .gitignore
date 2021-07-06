@@ -3,7 +3,8 @@
 .DS_Store
 /C/.idea
 /C/cmake-build-debug
-/Cpp/.idea/cmake-build-debug
+/Cpp/.idea/
+/Cpp/cmake-build-debug
 /Java/lib
 /Java/out
 /Kotlin/lib
