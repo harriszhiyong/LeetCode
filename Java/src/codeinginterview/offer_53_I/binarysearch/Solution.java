@@ -1,4 +1,4 @@
-package codeinginterview.offer_53_I;
+package codeinginterview.offer_53_I.binarysearch;
 
 public class Solution {
     public int search(int[] nums, int target) {
