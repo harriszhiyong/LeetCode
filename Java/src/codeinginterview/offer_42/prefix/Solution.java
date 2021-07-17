@@ -1,4 +1,4 @@
-package codeinginterview.offer_42;
+package codeinginterview.offer_42.prefix;
 
 public class Solution {
     public int maxSubArray(int[] nums) {
