@@ -1,4 +1,4 @@
-package interviewquestion;
+package interviewquestion._16_26;
 
 import java.util.Stack;
 
